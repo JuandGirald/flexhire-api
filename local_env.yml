@@ -1,0 +1,3 @@
+REDIS_URL: <redis_url>
+WEBHOOK_HOST: http://localhost:3000
+FLEXHIRE_API_URL: https://flexhire.com/api/v2
